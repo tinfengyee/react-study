@@ -6,13 +6,14 @@
 // import MultipleFormsWithoutUseActionStateDemo from './React-Hooks/multipleFormsWithoutUseActionState';
 // import OptimisticDemo from './React-Hooks/useOptimisticDemo'
 // import LayoutEffect from './React-Hooks/useLayoutEffect'
-import FragmentDemo from './React-Components/Fragment';
+// import FragmentDemo from './React-Components/Fragment';
+import UseDeferredValueDemo from './React-Hooks/useDeferredValue';
 
 function App() {
   // const ref = useRef<HTMLDivElement>(null);
   return (
     <>
-      <FragmentDemo />
+      <UseDeferredValueDemo />
       {/* <LayoutEffect /> */}
       {/* <OptimisticDemo /> */}
       {/* <div className="min-h-screen bg-gray-100 py-8">
